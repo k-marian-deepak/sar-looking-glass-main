@@ -248,7 +248,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Contact - Team - 0Day - (https://www.spaceappschallenge.org/2025/find-a-team/0day1/)
 
-- Team Lead: Jayanth adhithyaa G R  
+---
+Team Lead: Jayanth adhithyaa G R  
 Email: jayanthadhithyaagr@gmail.com  
 Member 1: Deepak K M
 Email: kmariandeepak@gmail.com
