@@ -1,0 +1,357 @@
+.case-study-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.case-study-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding: 2rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 15px;
+}
+
+.case-study-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.case-study-subtitle {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+.analysis-section {
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.analysis-section h2 {
+  color: #2c3e50;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #f8f9fa;
+  padding-bottom: 0.5rem;
+}
+
+.polarization-selector {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.polar-btn {
+  padding: 0.5rem 1rem;
+  border: 2px solid #667eea;
+  background: white;
+  color: #667eea;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.polar-btn.active {
+  background: #667eea;
+  color: white;
+}
+
+.polar-btn:hover:not(.active) {
+  background: #f8f9fa;
+}
+
+.chart-container {
+  height: 300px;
+  margin-bottom: 2rem;
+}
+
+.interpretation {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 5px;
+  border-left: 4px solid #667eea;
+}
+
+.interpretation h3 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.metric-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  border: 1px solid #e9ecef;
+}
+
+.metric-value {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #667eea;
+  margin-bottom: 0.5rem;
+}
+
+.metric-label {
+  color: #7f8c8d;
+  font-weight: 500;
+}
+
+.sar-principles {
+  margin-top: 2rem;
+}
+
+.principles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.principle {
+  padding: 1.5rem;
+  background: #f8f9fa;
+  border-radius: 5px;
+  border-left: 4px solid #27ae60;
+}
+
+.principle h4 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+
+/* Risk Assessment Styles */
+.risk-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.risk-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e9ecef;
+}
+
+.risk-card h4 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.stability-indicator {
+  padding: 0.5rem;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.stability-indicator.stable {
+  background: #d5f4e6;
+  color: #27ae60;
+}
+
+.stability-indicator.moderate {
+  background: #fff3cd;
+  color: #f39c12;
+}
+
+.stability-indicator.critical {
+  background: #f8d7da;
+  color: #e74c3c;
+}
+
+.movement-data {
+  color: #7f8c8d;
+  margin-bottom: 0.5rem;
+}
+
+.risk-level {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+/* Technology Explanation */
+.tech-explanation {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.tech-point {
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 5px;
+  border-left: 4px solid #667eea;
+}
+
+.tech-point h4 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+
+/* Preventive Measures */
+.measures-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.measure {
+  padding: 1.5rem;
+  border-radius: 5px;
+  border-left: 4px solid;
+}
+
+.measure.urgent {
+  background: #f8d7da;
+  border-left-color: #e74c3c;
+}
+
+.measure.high {
+  background: #fff3cd;
+  border-left-color: #f39c12;
+}
+
+.measure.medium {
+  background: #d1ecf1;
+  border-left-color: #17a2b8;
+}
+
+.measure.low {
+  background: #d5f4e6;
+  border-left-color: #27ae60;
+}
+
+/* Applications List */
+.applications-list {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.application {
+  padding: 1.5rem;
+  background: #f8f9fa;
+  border-radius: 5px;
+}
+
+.application strong {
+  color: #2c3e50;
+  font-size: 1.1rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.application ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.application li {
+  margin-bottom: 0.5rem;
+}
+
+/* Missions Table */
+.missions-table {
+  overflow-x: auto;
+  margin-top: 1rem;
+}
+
+.missions-table table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.missions-table th,
+.missions-table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.missions-table th {
+  background: #f8f9fa;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.missions-table tr:hover {
+  background: #f8f9fa;
+}
+
+/* Interpretation Guide */
+.interpretation-guide {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.interpretation-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 5px;
+}
+
+.color-swatch {
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  border: 2px solid #ddd;
+}
+
+.color-swatch.dark {
+  background: #2c3e50;
+}
+
+.color-swatch.bright {
+  background: #f39c12;
+}
+
+.color-swatch.medium {
+  background: #95a5a6;
+}
+
+@media (max-width: 768px) {
+  .case-study-container {
+    padding: 1rem;
+  }
+  
+  .case-study-header h1 {
+    font-size: 2rem;
+  }
+  
+  .analysis-section {
+    padding: 1rem;
+  }
+  
+  .metrics-grid,
+  .risk-grid,
+  .principles-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .missions-table {
+    font-size: 0.9rem;
+  }
+}
