@@ -8,7 +8,7 @@ A React.js web application that demonstrates Synthetic Aperture Radar (SAR) data
 
 ##  Overview
 
-This project was developed for the NASA Space Apps Challenge 2023, addressing the problem statement **"Through the Radar Looking Glass: Revealing Earth Processes with SAR"**. The application showcases how Synthetic Aperture Radar technology can be used to monitor environmental changes and natural disasters through interactive data visualization and educational content.
+This project was developed for the NASA Space Apps Challenge 2025, addressing the problem statement **"Through the Radar Looking Glass: Revealing Earth Processes with SAR"**. The application showcases how Synthetic Aperture Radar technology can be used to monitor environmental changes and natural disasters through interactive data visualization and educational content.
 
 ### Key Features
 
