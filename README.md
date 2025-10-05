@@ -2,6 +2,7 @@
 
 A React.js web application that demonstrates Synthetic Aperture Radar (SAR) data analysis for monitoring natural disasters and environmental changes, featuring case studies of Chennai floods and Wayanad landslides.
 
+![Google Drive Link](https://drive.google.com/drive/folders/1iJMvQbZ6f1lY1Yq3kxaUYL5jArL2UzCr?usp=drive_link)
 ![SAR Technology](https://img.shields.io/badge/SAR-Remote%20Sensing-blue)
 ![React](https://img.shields.io/badge/React-18.2.0-61dafb)
 ![NASA Space Apps](https://img.shields.io/badge/NASA-Space%20Apps%20Challenge-0b3d91)
@@ -246,14 +247,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Contact - Team - 0Day - (https://www.spaceappschallenge.org/2025/find-a-team/0day1/)
 
-**Team Lead**: [Jayanth adhithyaa G R]  
-**Email**: [jayanthadhithyaagr@gmail.com]  
-**Member 1**: [Deepak K M]  
-**Email**: [kmariandeepak@gmail.com]
-**Member 2**: [Yasvanth Kanna A]  
-**Email**: [yasvanthkanna0202@gmail.com]
-**Member 3**: [Amritha N]  
-**Email**: [amritha.n_25cs@kgkite.ac.in]
+Team Lead: Jayanth adhithyaa G R  
+Email: jayanthadhithyaagr@gmail.com  
+Member 1: Deepak K M
+Email: kmariandeepak@gmail.com
+Member 2: Yasvanth Kanna A
+Email: yasvanthkanna0202@gmail.com
+Member 3: Amritha N  
+Email: amritha.n_25cs@kgkite.ac.in
 ---
 
 <div align="center">
