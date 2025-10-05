@@ -244,7 +244,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React and Vite** communities for excellent documentation
 - **Recharts** team for powerful visualization components
 
-##  Contact - Team - 0Day
+##  Contact - Team - 0Day - (https://www.spaceappschallenge.org/2025/find-a-team/0day1/)
 
 **Team Lead**: [Jayanth adhithyaa G R]  
 **Email**: [jayanthadhithyaagr@gmail.com]  
