@@ -93,7 +93,7 @@ sar-looking-glass/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/GlitchX999/sar-looking-glass.git
+   git clone https://github.com/k-marian-deepak/sar-looking-glass-main.git
    cd sar-looking-glass
    ```
 
