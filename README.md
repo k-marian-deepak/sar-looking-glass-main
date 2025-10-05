@@ -244,11 +244,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React and Vite** communities for excellent documentation
 - **Recharts** team for powerful visualization components
 
-##  Contact
+##  Contact - Team - 0Day
 
-**Project Maintainer**: [Jayanth adhithyaa G R]  
+**Team Lead**: [Jayanth adhithyaa G R]  
 **Email**: [jayanthadhithyaagr@gmail.com]  
-
+**Member 1**: [Deepak K M]  
+**Email**: [kmariandeepak@gmail.com]
+**Member 2**: [Yasvanth Kanna A]  
+**Email**: [yasvanthkanna0202@gmail.com]
+**Member 3**: [Amritha N]  
+**Email**: [amritha.n_25cs@kgkite.ac.in]
 ---
 
 <div align="center">
